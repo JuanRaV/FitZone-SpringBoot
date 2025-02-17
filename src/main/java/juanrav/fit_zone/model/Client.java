@@ -6,7 +6,7 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import lombok.*;
 
-//Identity Class
+//Entity Class
 @Entity
 @Data //Generate Get and Set methods
 @NoArgsConstructor //Empty Constructor
